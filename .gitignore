@@ -6,7 +6,6 @@ pkg
 .nfs.*
 .idea
 java/Json.iml
-Gemfile.lock
 .rvmrc
 *.rbc
 .rbx
